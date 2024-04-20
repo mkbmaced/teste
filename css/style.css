@@ -1,0 +1,30 @@
+/*body {
+
+    background-image: url('../imagens/fundo.jpg');
+}
+*/
+p {
+    font-size: 20px;
+
+}
+
+.serie{
+    border: 25px solid red;
+    width: 200px;
+    margin-left: 50%;
+
+}
+
+.compras{
+    /*margin-left: 30%;*/
+    padding-left: 50%;
+    border: 2px solid black;
+    width: 50px;
+}
+
+.caixa{
+
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
